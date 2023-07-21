@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stefany</h1>
 <h3 align="center">A passionate data scientist from Brazil</h3>
 
-- 🔭 I’m currently working on [Redes Neurais](https://github.com/StefanyFernandes675/REDES_NEURAIS)
+- 🔭 I’m currently working on [Currency Tracker](https://github.com/StefanyFernandes675/CurrencyTrackerSite)
 
 - 🌱 I’m currently learning **R and Machine Learning**
 
