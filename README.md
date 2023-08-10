@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Stefany</h1>
 <h3 align="center">A passionate data scientist from Brazil</h3>
 
-- 🔭 I’m currently working on [Currency Tracker](https://github.com/StefanyFernandes675/CurrencyTrackerSite)
+- 🔭 I’m currently working on [Hatrix](https://github.com/StefanyFernandes675/Hatrix)
 
-- 🌱 I’m currently learning **R and Machine Learning**
+- 🌱 I’m currently learning **Haskell**
 
 - 👨‍💻 All of my projects are available at [https://github.com/StefanyFernandes675](https://github.com/StefanyFernandes675)
 
