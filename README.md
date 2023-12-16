@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stefany</h1>
 <h3 align="center">A passionate data scientist from Brazil</h3>
 
-- 🔭 I’m currently working on [Análise de dados - Artigo](https://github.com/StefanyFernandes675/AnaliseDadosArtigo2)
+- 🔭 I’m currently working on [sGP -2.0](https://github.com/StefanyFernandes675/sgp-2.0)
 
 - 🌱 I’m currently learning **Haskell**
 
