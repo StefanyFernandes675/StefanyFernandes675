@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Stefany</h1>
 <h3 align="center">A passionate data scientist from Brazil</h3>
 
-- 🔭 I’m currently working on [CHATBOT - HR](https://github.com/StefanyFernandes675/CHATBOT-HR)
+- 🔭 I’m currently working on [FinQ](https://github.com/StefanyFernandes675/FinqAPP)
 
-- 🌱 I’m currently learning **Haskell**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/StefanyFernandes675](https://github.com/StefanyFernandes675)
 
-- 💬 Ask me about **Python and Data Analysis**
+- 💬 Ask me about **Sports Data Analysis, WordPress, App Development**
 
 - 📫 How to reach me **stefanyfernandes675@gmail.com**
 
