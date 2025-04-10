@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stefany</h1>
 <h3 align="center">A passionate data scientist from Brazil</h3>
 
-- 🔭 I’m currently working on [FinQedu](https://github.com/StefanyFernandes675/FinQedu)
+- 🔭 I’m currently working on [FinQedu](https://github.com/FinQ-Edu/FinQedu)
 
 - 🌱 I’m currently learning **React Native**
 
